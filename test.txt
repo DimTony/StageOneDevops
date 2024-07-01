@@ -1,0 +1,3 @@
+john;sudo,dev,www-data
+jane;sudo
+wewe;dev,www-data
